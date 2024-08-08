@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moaz-shamim&label=Profile%20views&color=0e75b6&style=flat" alt="moaz-shamim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaz-shamim" alt="moaz-shamim" /></a> </p>
-
 - 📫 How to reach me **moaz.shamim1575@gmail.com**
 
 - ⚡ Fun fact **I think I like winter but I feel cold.**
