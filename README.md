@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moaz</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moaz-shamim&label=Profile%20views&color=0e75b6&style=flat" alt="moaz-shamim" /> </p>
-
 - 📫 How to reach me **moaz.shamim1575@gmail.com**
 
 - ⚡ Fun fact **I think I like winter but I feel cold.**
